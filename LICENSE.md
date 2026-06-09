@@ -1,4 +1,4 @@
-# 
+# Sécurisé OBS Studio filtres pour Mac OS | Personnalisé OBS Studio filtres pour PC Windows. Avec effets visuels et mixage audio — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
